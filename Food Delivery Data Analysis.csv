@@ -1,0 +1,41 @@
+Order_ID,Order_Date,Restaurant,Cuisine,Customer_ID,City,Order_Value,Delivery_Time_Min,Payment_Method,Rating,Order_Status
+FD001,2026-01-03,Spice Hub,Indian,C001,Pune,450,32,UPI,5,Delivered
+FD002,2026-01-04,Pizza Corner,Italian,C002,Mumbai,650,40,Card,4,Delivered
+FD003,2026-01-05,Wok Express,Chinese,C003,Nagpur,380,28,Cash,4,Delivered
+FD004,2026-01-07,Burger House,Fast Food,C004,Pune,320,25,UPI,5,Delivered
+FD005,2026-01-09,Taco Town,Mexican,C005,Mumbai,520,38,Card,3,Delivered
+FD006,2026-01-12,Spice Hub,Indian,C006,Nagpur,700,45,UPI,4,Delivered
+FD007,2026-01-15,Pasta Palace,Italian,C007,Pune,480,35,Cash,4,Delivered
+FD008,2026-01-18,Wok Express,Chinese,C008,Mumbai,560,42,Card,3,Delivered
+FD009,2026-01-20,Burger House,Fast Food,C009,Nagpur,290,22,UPI,5,Delivered
+FD010,2026-01-25,Spice Hub,Indian,C010,Pune,850,50,Card,2,Cancelled
+FD011,2026-02-02,Pizza Corner,Italian,C011,Nagpur,720,36,UPI,5,Delivered
+FD012,2026-02-04,Spice Hub,Indian,C012,Mumbai,390,30,Cash,4,Delivered
+FD013,2026-02-06,Wok Express,Chinese,C013,Pune,620,48,Card,3,Delivered
+FD014,2026-02-08,Burger House,Fast Food,C014,Mumbai,410,27,UPI,5,Delivered
+FD015,2026-02-10,Taco Town,Mexican,C015,Nagpur,550,39,Cash,4,Delivered
+FD016,2026-02-13,Pasta Palace,Italian,C016,Pune,680,44,Card,3,Delivered
+FD017,2026-02-16,Spice Hub,Indian,C017,Nagpur,540,33,UPI,5,Delivered
+FD018,2026-02-19,Wok Express,Chinese,C018,Mumbai,430,31,Cash,4,Delivered
+FD019,2026-02-22,Burger House,Fast Food,C019,Pune,360,24,UPI,5,Delivered
+FD020,2026-02-27,Pizza Corner,Italian,C020,Mumbai,900,55,Card,2,Cancelled
+FD021,2026-03-01,Spice Hub,Indian,C021,Pune,620,37,UPI,5,Delivered
+FD022,2026-03-03,Taco Town,Mexican,C022,Nagpur,470,34,Cash,4,Delivered
+FD023,2026-03-05,Pizza Corner,Italian,C023,Mumbai,780,42,Card,4,Delivered
+FD024,2026-03-08,Wok Express,Chinese,C024,Pune,520,29,UPI,5,Delivered
+FD025,2026-03-10,Burger House,Fast Food,C025,Nagpur,340,26,Cash,4,Delivered
+FD026,2026-03-13,Pasta Palace,Italian,C026,Mumbai,590,41,Card,3,Delivered
+FD027,2026-03-16,Spice Hub,Indian,C027,Nagpur,760,46,UPI,4,Delivered
+FD028,2026-03-19,Taco Town,Mexican,C028,Pune,430,32,Cash,5,Delivered
+FD029,2026-03-22,Burger House,Fast Food,C029,Mumbai,280,23,UPI,5,Delivered
+FD030,2026-03-28,Wok Express,Chinese,C030,Nagpur,690,52,Card,2,Cancelled
+FD031,2026-04-02,Pizza Corner,Italian,C031,Pune,820,39,Card,5,Delivered
+FD032,2026-04-04,Spice Hub,Indian,C032,Mumbai,580,35,UPI,4,Delivered
+FD033,2026-04-06,Wok Express,Chinese,C033,Nagpur,460,30,Cash,4,Delivered
+FD034,2026-04-09,Burger House,Fast Food,C034,Pune,390,27,UPI,5,Delivered
+FD035,2026-04-12,Pasta Palace,Italian,C035,Mumbai,740,47,Card,3,Delivered
+FD036,2026-04-15,Taco Town,Mexican,C036,Nagpur,610,40,Cash,4,Delivered
+FD037,2026-04-18,Spice Hub,Indian,C037,Pune,490,33,UPI,5,Delivered
+FD038,2026-04-21,Pizza Corner,Italian,C038,Nagpur,560,36,Card,4,Delivered
+FD039,2026-04-24,Burger House,Fast Food,C039,Mumbai,330,25,UPI,5,Delivered
+FD040,2026-04-28,Wok Express,Chinese,C040,Pune,880,58,Card,2,Cancelled
